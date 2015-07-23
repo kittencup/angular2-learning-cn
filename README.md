@@ -1,5 +1,9 @@
 ![](https://angular.io/resources/images/logos/standard/shield-large@2x.png)
 
+交流群
+---------
+QQ:263752194
+
 文章
 ---------
 * [Angular 2模板语法](http://kittencup.com/javascript/2015/07/20/Angular%202%E6%A8%A1%E6%9D%BF%E8%AF%AD%E6%B3%95.html)
