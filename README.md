@@ -8,7 +8,6 @@ QQ群:263752194
 ---------
 * [Angular 2依赖注入](http://kittencup.com/javascript/2015/07/23/Angular%202%E4%B8%AD%E7%9A%84%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5.html)
 * [Angular 2模板语法](http://kittencup.com/javascript/2015/07/20/Angular%202%E6%A8%A1%E6%9D%BF%E8%AF%AD%E6%B3%95.html)
-* [Angular 2如何工作](http://kittencup.com/javascript/2015/07/19/Angular%202%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C.html)
 * [Angular 2的核心概念](http://kittencup.com/javascript/2015/07/17/Angular%202%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.html)
 * [Angular 2的变化检测](http://kittencup.com/javascript/2015/07/17/Angular%202%E7%9A%84%E5%8F%98%E5%8C%96%E6%A3%80%E6%B5%8B.html)
 * [Angular 2简介](http://zhuanlan.zhihu.com/FrontendMagazine/20058966)
