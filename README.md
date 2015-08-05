@@ -15,6 +15,7 @@ QQ群:263752194
 * [Angular 2浅入浅出](http://segmentfault.com/a/1190000002637529)
 * [Angular 2和1比较](http://www.html-js.com/article/AngularJS-mass-Angular-2-and-1x-comparison)
 * [Angular 2初体验](http://www.reqianduan.com/2758.html)
+* [Angular2使用体验](http://web.jobbole.com/83017/)
 * [Angular 2的设计方法和原则](http://blog.jobbole.com/63264/)
 * [Annotation和Decorator之间的区别](http://kittencup.com/javascript/2015/08/05/Annotation%E5%92%8CDecorator%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB.html)
 
