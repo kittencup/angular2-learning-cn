@@ -24,6 +24,10 @@ QQ群:263752194
 ---------
 * [Angular 2入门](http://www.hubwiz.com/course/5599d367a164dd0d75929c76/)
 
+PPT
+---------
+* [angularjs-react-angular](https://github.com/kittencup/angularjs-react-angular)
+
 视频
 ---------
 
