@@ -18,7 +18,9 @@ QQ群:263752194
 * [Angular2使用体验](http://web.jobbole.com/83017/)
 * [Angular 2的设计方法和原则](http://blog.jobbole.com/63264/)
 * [Annotation和Decorator之间的区别](http://kittencup.com/javascript/2015/08/05/Annotation%E5%92%8CDecorator%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB.html)
-
+* [使用Angular2构建一个简单的Todo应用](https://github.com/jnotnull/JavaScript-Sturcture/wiki/%E4%BD%BF%E7%94%A8Angular2%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84Todo%E5%BA%94%E7%94%A8)
+* [Angular2路由模块简介](http://chensd.com/2015-06/Angular-New-Router.html)
+* [Angular 2.0 的设计方法和原则](http://blog.jobbole.com/63264/)
 
 教程
 ---------
