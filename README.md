@@ -6,6 +6,7 @@ QQ群:263752194
 
 文章
 ---------
+* [在angular2服务中注入服务](http://kittencup.com/javascript/2015/11/11/%E5%9C%A8angular2%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%B3%A8%E5%85%A5%E6%9C%8D%E5%8A%A1.html)
 * [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 * [Angular 2依赖注入](http://kittencup.com/javascript/2015/07/23/Angular%202%E4%B8%AD%E7%9A%84%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5.html)
 * [Angular 2模板语法](http://kittencup.com/javascript/2015/07/20/Angular%202%E6%A8%A1%E6%9D%BF%E8%AF%AD%E6%B3%95.html)
