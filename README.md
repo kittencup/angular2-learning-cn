@@ -24,6 +24,8 @@ QQ群:263752194
 * [使用Angular2构建一个简单的Todo应用](https://github.com/jnotnull/JavaScript-Sturcture/wiki/%E4%BD%BF%E7%94%A8Angular2%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84Todo%E5%BA%94%E7%94%A8)
 * [Angular2路由模块简介](http://chensd.com/2015-06/Angular-New-Router.html)
 * [Angular 2.0 的设计方法和原则](http://blog.jobbole.com/63264/)
+* [Angular2 依赖注入](http://gabriel0402.github.io/2015/12/25/angular-dependency-injection/)
+* [Angular2 表单验证](http://gabriel0402.github.io/2015/12/24/angular2-form/)
 
 教程
 ---------
