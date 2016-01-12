@@ -4,6 +4,11 @@
 ---------
 QQ群:263752194
 
+提问
+---------
+*[Angular 2 随便问](https://github.com/kittencup/angular2-ama-cn)
+
+
 文章
 ---------
 * [Angular 1 vs. Angular 2 深度比较](http://www.oschina.net/translate/angular-1-vs-angular-2-a-high-level-comparison)
