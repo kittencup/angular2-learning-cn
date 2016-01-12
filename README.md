@@ -6,7 +6,7 @@ QQ群:263752194
 
 提问
 ---------
-*[Angular 2 随便问](https://github.com/kittencup/angular2-ama-cn)
+* [Angular 2 随便问](https://github.com/kittencup/angular2-ama-cn)
 
 
 文章
