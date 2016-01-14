@@ -35,7 +35,7 @@ QQ群:263752194
 教程
 ---------
 * [Angular 2入门](http://www.hubwiz.com/course/5599d367a164dd0d75929c76/)
-* [Angular2 随便问](https://github.com/kittencup/angular2-ama-cn)
+* [Angular2开发指南](https://github.com/gf-rd/blog/issues/21)
 
 PPT
 ---------
