@@ -7,7 +7,7 @@ QQ群:263752194
 书
 ---------
 
-* [ng book 2中文版](https://github.com/kittencup/angular2-ama-cn/issues/24)
+* [ng book 2中文版](https://github.com/kittencup/angular2-ama-cn/issues/43)
 
 提问
 ---------
