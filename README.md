@@ -13,9 +13,10 @@ QQ群:263752194
 ---------
 * [Angular 2 随便问](https://github.com/kittencup/angular2-ama-cn)
 
-
 文章
 ---------
+* [理解Zone](https://github.com/kittencup/angular2-ama-cn/issues/60)
+* [Angular 2 中的 ViewChildren 和 ContentChildren](https://github.com/kittencup/angular2-ama-cn/issues/66)
 * [Angular 2 VS. React： 血色将至](http://www.zcfy.cc/article/142)
 * [Angular 1 vs. Angular 2 深度比较](http://www.oschina.net/translate/angular-1-vs-angular-2-a-high-level-comparison)
 * [Angular 1 和 Angular 2 集成：无缝升级的方法](http://www.oschina.net/translate/angular-1-and-angular-2-coexistence)
