@@ -9,12 +9,6 @@ QQ群:263752194
 
 * [官方中文版教程](https://github.com/angular/angular-cn)
 
-书
----------
-
-* [ng book 2中文版](https://github.com/kittencup/angular2-ama-cn/issues/43)
-
-
 提问
 ---------
 * [Angular 2 随便问](https://github.com/kittencup/angular2-ama-cn)
